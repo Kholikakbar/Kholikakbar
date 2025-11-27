@@ -55,10 +55,31 @@
 ### 🧰 Tools of The Trade
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=instagram,figma,react,tailwind,html,css,js,nodejs,vscode,git&perline=10" alt="Tech Stack Icons" />
-</div>
+  
+  <p style="color: #888; margin-bottom: 15px;">
+    <i>"From mobile content creation to full-stack development."</i>
+  </p>
 
-<br>
+  <!-- Bagian 1: Content Creation (Mobile Apps & AI) -->
+  <b>🎨 Creative & AI Suite</b>
+  <br><br>
+  <!-- PixelLab (Custom Badge Blue) -->
+  <img src="https://img.shields.io/badge/PixelLab-Graphic_Design-0075FF?style=for-the-badge&logo=android&logoColor=white" alt="PixelLab" />
+  <!-- CapCut (Official Brand Color) -->
+  <img src="https://img.shields.io/badge/CapCut-Video_Edit-000000?style=for-the-badge&logo=capcut&logoColor=white" alt="CapCut" />
+  <!-- KineMaster (Official Brand Color) -->
+  <img src="https://img.shields.io/badge/KineMaster-Pro_Editor-FF5722?style=for-the-badge&logo=kinemaster&logoColor=white" alt="KineMaster" />
+  <!-- ChatGPT (Official Brand Color) -->
+  <img src="https://img.shields.io/badge/ChatGPT-Brainstorming-74aa9c?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT" />
+
+  <br><br>
+
+  <!-- Bagian 2: Coding (Web Development) -->
+  <b>💻 Tech Stack</b>
+  <br><br>
+  <img src="https://skillicons.dev/icons?i=html,js,react,vite,tailwind,nodejs" alt="Tech Stack Icons" />
+
+</div>
 
 <!-- Projects Section (UPDATED) -->
 ### 🏆 Featured Projects
