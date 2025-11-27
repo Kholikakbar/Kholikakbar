@@ -51,35 +51,33 @@
   </tr>
 </table>
 
-<!-- Tools & Stack -->
+<!-- Tools Section -->
 ### 🧰 Tools of The Trade
 
-<div align="center">
-  
-  <p style="color: #888; margin-bottom: 15px;">
-    <i>"From mobile content creation to full-stack development."</i>
-  </p>
+<p align="center" style="color: #666; margin-bottom: 20px;">
+  <i>"Combining creative tools with powerful code."</i>
+</p>
 
-  <!-- Bagian 1: Content Creation (Mobile Apps & AI) -->
-  <b>🎨 Creative & AI Suite</b>
-  <br><br>
-  <!-- PixelLab (Custom Badge Blue) -->
-  <img src="https://img.shields.io/badge/PixelLab-Graphic_Design-0075FF?style=for-the-badge&logo=android&logoColor=white" alt="PixelLab" />
-  <!-- CapCut (Official Brand Color) -->
-  <img src="https://img.shields.io/badge/CapCut-Video_Edit-000000?style=for-the-badge&logo=capcut&logoColor=white" alt="CapCut" />
-  <!-- KineMaster (Official Brand Color) -->
-  <img src="https://img.shields.io/badge/KineMaster-Pro_Editor-FF5722?style=for-the-badge&logo=kinemaster&logoColor=white" alt="KineMaster" />
-  <!-- ChatGPT (Official Brand Color) -->
-  <img src="https://img.shields.io/badge/ChatGPT-Brainstorming-74aa9c?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT" />
-
-  <br><br>
-
-  <!-- Bagian 2: Coding (Web Development) -->
-  <b>💻 Tech Stack</b>
-  <br><br>
-  <img src="https://skillicons.dev/icons?i=html,js,react,vite,tailwind,nodejs" alt="Tech Stack Icons" />
-
-</div>
+<table>
+  <tr>
+    <td width="50%" align="center" valign="top" style="border: none;">
+      <h4 style="margin-bottom: 10px;">🎨 Creative & Mobile Suite</h4>
+      <!-- Badges disusun vertikal/kotak agar rapi -->
+      <img src="https://img.shields.io/badge/PixelLab-Design-0075FF?style=flat-square&logo=android&logoColor=white" height="25" />
+      <img src="https://img.shields.io/badge/CapCut-Video-000000?style=flat-square&logo=capcut&logoColor=white" height="25" />
+      <br>
+      <img src="https://img.shields.io/badge/KineMaster-Editor-FF5722?style=flat-square&logo=kinemaster&logoColor=white" height="25" />
+      <img src="https://img.shields.io/badge/ChatGPT-AI_Assist-74aa9c?style=flat-square&logo=openai&logoColor=white" height="25" />
+    </td>
+    <td width="50%" align="center" valign="top" style="border: none;">
+      <h4 style="margin-bottom: 10px;">💻 Web Development Stack</h4>
+      <!-- Tech Stack Icons -->
+      <a href="https://skillicons.dev">
+        <img src="https://skillicons.dev/icons?i=html,js,nodejs,react,vite,tailwind&perline=3" alt="Tech Stack" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 <!-- Projects Section (UPDATED) -->
 ### 🏆 Featured Projects
