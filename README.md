@@ -26,19 +26,31 @@
 <br>
 
 <!-- About Section -->
-### 🚀 About Me
+<!-- About Me Section - Creative Center Style -->
+### ⚡ The Person Behind The Screen
 
-<img align="right" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="120"> 
+<div align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjR4MXZ4bmxpN254bmxpN254bmxpN254bmxpN254bmxpN254bmxpNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Ld0InaVRM6Zsk/giphy.gif" width="180">
+  
+  <br><br>
 
-Saya menggabungkan strategi **Digital Marketing** dengan **Teknologi**. 
-Sebagai **Social Media Specialist**, saya tidak hanya mengelola konten, tetapi juga membangun *tools* sendiri untuk memaksimalkan *engagement* dan efisiensi kerja.
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=833ab4&center=true&vCenter=true&width=435&lines=Social+Media+Strategist;Code+%2B+Content+Creator;Data-Driven+Growth" alt="Typing SVG" />
 
-*   📈 **Fokus Utama:** Meningkatkan *Engagement Rate* & Brand Awareness.
-*   🛠️ **Keahlian Teknis:** Membangun *tools* analitik & automasi untuk kreator.
-*   🛒 **Bisnis:** Membantu UMKM (Service HP/Laptop) *Go Digital* dengan Landing Page modern.
-*   💡 **Motto:** *"Data-driven decisions, creative execution."*
+  <p width="600">
+    <i>"Saya percaya bahwa <b>Coding</b> dan <b>Konten</b> adalah dua sisi mata uang yang sama.<br>Keduanya membutuhkan logika, kreativitas, dan eksekusi yang tepat."</i>
+  </p>
+  
+  <br>
 
-<br>
+  <p align="center">
+    Saya adalah seorang <b>Tech-Savvy Marketer</b>. <br>
+    Saya tidak hanya memposting konten, saya membangun <b>sistem</b> di belakangnya.
+    <br><br>
+    🚀 <b>Misi Saya:</b><br>
+    Mengubah <i>followers</i> menjadi <i>customers</i> melalui data analitik dan landing page yang efektif.
+  </p>
+
+</div>
 
 <!-- Tools & Stack -->
 ### 🧰 Tools of The Trade
