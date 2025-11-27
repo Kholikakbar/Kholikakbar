@@ -115,12 +115,22 @@ Sebagai **Social Media Specialist**, saya tidak hanya mengelola konten, tetapi j
   </tr>
 </table>
 
-<!-- GitHub Stats -->
-### 📈 Activity & Stats
+<!-- GitHub Stats Section -->
+### 📈 Analytics & Performance
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kholikakbar&show_icons=true&theme=buefy&hide_border=true&count_private=true&include_all_commits=true" height="170" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kholikakbar&theme=buefy&hide_border=true" height="170" alt="GitHub Streak" />
+  <!-- Stats Card (Custom IG Colors) -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Kholikakbar&show_icons=true&count_private=true&include_all_commits=true&bg_color=0d1117&title_color=E1306C&text_color=ffffff&icon_color=F77737&border_color=30363d" height="150" alt="Stats" />
+  
+  <!-- Streak Card (Stable Server) -->
+  <img src="https://streak-stats.demolab.com?user=Kholikakbar&theme=dark&background=0d1117&ring=E1306C&fire=F77737&currStreakLabel=E1306C&border=30363d" height="150" alt="Streak" />
+</div>
+
+<br>
+
+<!-- Activity Graph (Looks like Audio Wave) -->
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kholikakbar&bg_color=0d1117&color=E1306C&line=F77737&point=ffffff&hide_border=true" width="100%" />
 </div>
 
 <br>
