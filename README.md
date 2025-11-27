@@ -119,21 +119,19 @@ Sebagai **Social Media Specialist**, saya tidak hanya mengelola konten, tetapi j
 ### 📈 Analytics & Performance
 
 <div align="center">
-  <!-- Stats Card (Custom IG Colors) -->
+  <!-- Stats Card (Server Vercel - Sangat Stabil) -->
   <img src="https://github-readme-stats.vercel.app/api?username=Kholikakbar&show_icons=true&count_private=true&include_all_commits=true&bg_color=0d1117&title_color=E1306C&text_color=ffffff&icon_color=F77737&border_color=30363d" height="150" alt="Stats" />
   
-  <!-- Streak Card (Stable Server) -->
-  <img src="https://streak-stats.demolab.com?user=Kholikakbar&theme=dark&background=0d1117&ring=E1306C&fire=F77737&currStreakLabel=E1306C&border=30363d" height="150" alt="Streak" />
+  <!-- Top Languages (Pengganti Streak - Lebih Informatif) -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kholikakbar&layout=compact&bg_color=0d1117&title_color=E1306C&text_color=ffffff&icon_color=F77737&border_color=30363d&hide=jupyter%20notebook" height="150" alt="Languages" />
 </div>
 
 <br>
 
-<!-- Activity Graph (Looks like Audio Wave) -->
+<!-- Activity Graph (Audio Wave Style) -->
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kholikakbar&bg_color=0d1117&color=E1306C&line=F77737&point=ffffff&hide_border=true" width="100%" />
 </div>
-
-<br>
 
 <!-- Footer Gradient -->
 <div align="center">
