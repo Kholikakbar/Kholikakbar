@@ -27,34 +27,26 @@
 
 <!-- About Section -->
 ### 🚀 About Me
+
 <table>
   <tr>
-    <td width="35%" align="center" style="border: none;">
-      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200" style="border-radius: 10px;">
+    <td width="30%" align="center" style="border: none;">
+      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="180" style="border-radius: 10px;">
       <br><br>
       <a href="https://instagram.com/kholikakbar">
         <img src="https://img.shields.io/badge/Follow%20Me-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white">
       </a>
     </td>
-    <td width="65%" style="border: none;">
-      <h3>👋 Hi, I'm Kholik!</h3>
-      <p>
-        Saya menggabungkan seni <b>Digital Marketing</b> dengan presisi <b>Teknologi</b>. 
-        Sebagai <i>Social Media Specialist</i>, saya tidak sekadar mengejar <i>likes</i>, tapi membangun ekosistem digital.
-      </p>
-      
-      <p>
-        <b>🔥 What I Do Best:</b>
-      </p>
-      <ul>
-        <li>📈 <b>Growth Hacking:</b> Analisa algoritma untuk menaikkan <i>Engagement Rate</i>.</li>
-        <li>🛠️ <b>Tech Solutions:</b> Membuat <i>Tools</i> (Downloader/Analytics) untuk efisiensi konten.</li>
-        <li>💼 <b>Business Impact:</b> Membantu toko fisik <i>Go Digital</i> dengan Landing Page premium.</li>
-      </ul>
-      
-      <blockquote>
-        <i>"Data-driven decisions, creative execution."</i>
-      </blockquote>
+    <td width="70%" style="border: none;">
+<h3>👋 Hi, I'm Kholik!</h3>
+<p>Saya menggabungkan seni <b>Digital Marketing</b> dengan presisi <b>Teknologi</b>. Sebagai <i>Social Media Specialist</i>, saya tidak sekadar mengejar <i>likes</i>, tapi membangun ekosistem digital.</p>
+<p><b>🔥 What I Do Best:</b></p>
+<ul>
+<li>📈 <b>Growth Hacking:</b> Analisa algoritma untuk menaikkan <i>Engagement Rate</i>.</li>
+<li>🛠️ <b>Tech Solutions:</b> Membuat <i>Tools</i> (Downloader/Analytics) untuk efisiensi konten.</li>
+<li>💼 <b>Business Impact:</b> Membantu toko fisik <i>Go Digital</i> dengan Landing Page premium.</li>
+</ul>
+<blockquote><i>"Data-driven decisions, creative execution."</i></blockquote>
     </td>
   </tr>
 </table>
