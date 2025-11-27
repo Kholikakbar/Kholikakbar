@@ -1,126 +1,105 @@
-<img src="https://raw.githubusercontent.com/Kholikakbar/Kholikakbar/main/assets/banner.png" alt="Banner" style="border-radius: 16px; width: 100%; max-height: 320px; object-fit: cover;">
-
+<!-- Banner Section -->
 <div align="center">
+  <img src="https://raw.githubusercontent.com/Kholikakbar/Kholikakbar/main/assets/banner.png" alt="Banner Kholik Akbar" style="border-radius: 20px; width: 100%; max-height: 350px; object-fit: cover; box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.2);">
+  
+  <br><br>
 
-# Hi there, I'm Kholik Akbar 👋
+  <!-- Typing Effect Header -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=333333&center=true&vCenter=true&width=435&lines=Hi+there,+I'm+Kholik+Akbar+%F0%9F%91%8B;Web+Developer;Mobile+App+Developer;Founder+of+TazDevelop" alt="Typing SVG" />
+  </a>
 
-**`Web Developer • Mobile App Developer • Founder of TazDevelop`**
+  <p style="font-size: 1.1rem; color: #555;">
+    <b>Building digital solutions that matter.</b>
+  </p>
 
-</div>
-
-<p align="center">
-  <a href="https://tazdevelop.com"><img src="https://img.shields.io/badge/Portfolio-TazDevelop-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"></a>
-  <a href="mailto:kholik@tazdevelop.com"><img src="https://img.shields.io/badge/Email-kholik@tazdevelop.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://linkedin.com/in/kholikakbar"><img src="https://img.shields.io/badge/LinkedIn-Kholik_Akbar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://instagram.com/kholikakbar"><img src="https://img.shields.io/badge/Instagram-@kholikakbar-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
-</p>
-
-<br>
-
-### 👨‍💻 About Me
-Saya adalah full-stack developer yang fokus pada pembuatan **website**, **aplikasi mobile (Android)**, dan berbagai **layanan digital**. Saat ini saya aktif mengembangkan banyak proyek, antara lain:
-
-- Website & Landing Page untuk bisnis  
-- Aplikasi Android native (AIDE & Android Studio)  
-- Chat AI berbasis Gemini API (OlikAI)  
-- Website Joki Service  
-- Sistem jaringan mikrotik & otomasi  
-
-> Saya selalu tertarik pada teknologi baru dan suka membangun sesuatu yang bermanfaat bagi banyak orang.
-
-<br>
-
-### 🛠️ Tech Stack & Tools
-
-<table>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=html" alt="HTML"/>
-      <br>HTML5
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=css" alt="CSS"/>
-      <br>CSS3
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=js" alt="JavaScript"/>
-      <br>JavaScript
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind"/>
-      <br>TailwindCSS
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=react" alt="React"/>
-      <br>React.js
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=vite" alt="Vite"/>
-      <br>Vite
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=androidstudio" alt="Android Studio"/>
-      <br>Android Studio
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=kotlin" alt="Kotlin"/>
-      <br>Kotlin
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=java" alt="Java"/>
-      <br>Java
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=git" alt="Git"/>
-      <br>Git & GitHub
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=figma" alt="Figma"/>
-      <br>Figma
-    </td>
-    <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code"/>
-      <br>VS Code
-    </td>
-  </tr>
-</table>
-
-<br>
-
-### 🔥 Featured Projects
-| Project | Description | Tech | Link |
-|--------|-------------|------|------|
-| OlikAI | Chat AI berbasis Google Gemini API | Kotlin, Android, Gemini API | [View →](https://github.com/Kholikakbar/OlikAI) |
-| TazDevelop Official Site | Company profile & portfolio | React, TailwindCSS, Vite | [View →](https://tazdevelop.com) |
-| Joki Service Website | Platform joki game & tugas | HTML, Tailwind, JS | [View →](https://github.com/Kholikakbar/joki-service) |
-
-<br>
-
-### 📊 GitHub Stats
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kholikakbar&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Kholikakbar&theme=tokyonight"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kholikakbar&layout=compact&theme=tokyonight&hide=jupyter%20notebook"/>
+  <!-- Social Badges (Clean Style) -->
+  <p align="center">
+    <a href="https://tazdevelop.com">
+      <img src="https://img.shields.io/badge/Portfolio-TazDevelop-0056D2?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio">
+    </a>
+    <a href="mailto:kholik@tazdevelop.com">
+      <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email">
+    </a>
+    <a href="https://linkedin.com/in/kholikakbar">
+      <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
+    </a>
+    <a href="https://instagram.com/kholikakbar">
+      <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram">
+    </a>
+  </p>
 </div>
 
 <br>
 
-### 📬 Let’s Connect!
-<p align="center">
-  <a href="https://tazdevelop.com">🌐 tazdevelop.com</a> • 
-  <a href="mailto:kholik@tazdevelop.com">✉️ kholik@tazdevelop.com</a> • 
-  Jakarta, Indonesia
-</p>
+<!-- About Section -->
+## 👨‍💻 About Me
+
+> *"Saya selalu tertarik pada teknologi baru dan suka membangun sesuatu yang bermanfaat bagi banyak orang."*
+
+Saya adalah **Full-stack Developer** yang berbasis di Jakarta, Indonesia. Saya memiliki spesialisasi dalam **Website Development**, **Aplikasi Mobile (Android)**, dan solusi **Digital Automation**. Saat ini, saya aktif mengembangkan **TazDevelop** untuk membantu bisnis *go digital*.
+
+🔭 **Current Focus:**
+- 🏢 Mengembangkan Landing Page & Sistem Bisnis
+- 📱 Native Android Development (Kotlin/Java)
+- 🤖 Integrasi AI (Gemini API)
+- 🌐 Mikrotik Network & Automation
+
+<br>
+
+<!-- Tech Stack Section (Modern) -->
+## 🛠️ Tech Stack & Tools
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Kholikakbar&color=0A66C2&style=for-the-badge" alt="Profile views"/>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,react,vite,androidstudio,kotlin,java,git,github,figma,vscode,mikrotik&perline=7&theme=light" alt="My Skills" />
+  </a>
 </div>
 
----
-⭐ *Feel free to star my repositories if you find them useful!*  
-© 2025 Kholik Akbar – TazDevelop
+<br>
+
+<!-- Projects Section -->
+## 🔥 Featured Projects
+
+| 🏆 Project | 📝 Description | 🧩 Tech Stack | 🔗 Action |
+|:---|:---|:---|:---:|
+| **OlikAI** | Chat Assistant cerdas berbasis Google Gemini API | `Kotlin` `Android` `Gemini` | [**View Repo**](https://github.com/Kholikakbar/OlikAI) |
+| **TazDevelop** | Official company profile & portfolio site | `React` `Tailwind` `Vite` | [**Visit Site**](https://tazdevelop.com) |
+| **Joki Service** | Platform layanan joki game & tugas | `HTML` `Tailwind` `JS` | [**View Repo**](https://github.com/Kholikakbar/joki-service) |
+
+<br>
+
+<!-- GitHub Stats Section -->
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Kholikakbar&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&title_color=0056D2&text_color=333" height="160" alt="Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kholikakbar&theme=transparent&hide_border=true&ring=0056D2&fire=E4405F&currStreakLabel=0056D2" height="160" alt="Streak" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kholikakbar&layout=compact&theme=transparent&hide_border=true&title_color=0056D2&text_color=333&hide=jupyter%20notebook" height="140" alt="Languages" />
+</div>
+
+<br>
+
+<!-- Footer Section -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.png" alt="Footer Divider" width="100%">
+
+<div align="center">
+  
+  <br>
+  
+  <p>
+    Interested in collaborating? Let's have a coffee! ☕<br>
+    <a href="mailto:kholik@tazdevelop.com"><b>kholik@tazdevelop.com</b></a>
+  </p>
+
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=Kholikakbar&color=0056D2&style=flat-square&label=Profile+Views" alt="Views"/>
+  </p>
+  
+  <p style="font-size: 12px; color: #888;">
+    © 2025 Kholik Akbar – Founder of <a href="https://tazdevelop.com">TazDevelop</a>
+  </p>
+</div>
