@@ -1,105 +1,82 @@
-<!-- Banner Section -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Kholikakbar/Kholikakbar/main/assets/banner.png" alt="Banner Kholik Akbar" style="border-radius: 20px; width: 100%; max-height: 350px; object-fit: cover; box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.2);">
-  
-  <br><br>
 
-  <!-- Typing Effect Header -->
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=333333&center=true&vCenter=true&width=435&lines=Hi+there,+I'm+Kholik+Akbar+%F0%9F%91%8B;Web+Developer;Mobile+App+Developer;Founder+of+TazDevelop" alt="Typing SVG" />
+# Kholik Akbar
+### Full-Stack Developer • Android Specialist • Founder of TazDevelop
+
+<p>
+  <a href="https://tazdevelop.com">
+    <img src="https://img.shields.io/badge/🌐_Website-tazdevelop.com-2ea44f?style=flat&logo=google-chrome&logoColor=white" alt="Website">
   </a>
-
-  <p style="font-size: 1.1rem; color: #555;">
-    <b>Building digital solutions that matter.</b>
-  </p>
-
-  <!-- Social Badges (Clean Style) -->
-  <p align="center">
-    <a href="https://tazdevelop.com">
-      <img src="https://img.shields.io/badge/Portfolio-TazDevelop-0056D2?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio">
-    </a>
-    <a href="mailto:kholik@tazdevelop.com">
-      <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email">
-    </a>
-    <a href="https://linkedin.com/in/kholikakbar">
-      <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
-    </a>
-    <a href="https://instagram.com/kholikakbar">
-      <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram">
-    </a>
-  </p>
-</div>
-
-<br>
-
-<!-- About Section -->
-## 👨‍💻 About Me
-
-> *"Saya selalu tertarik pada teknologi baru dan suka membangun sesuatu yang bermanfaat bagi banyak orang."*
-
-Saya adalah **Full-stack Developer** yang berbasis di Jakarta, Indonesia. Saya memiliki spesialisasi dalam **Website Development**, **Aplikasi Mobile (Android)**, dan solusi **Digital Automation**. Saat ini, saya aktif mengembangkan **TazDevelop** untuk membantu bisnis *go digital*.
-
-🔭 **Current Focus:**
-- 🏢 Mengembangkan Landing Page & Sistem Bisnis
-- 📱 Native Android Development (Kotlin/Java)
-- 🤖 Integrasi AI (Gemini API)
-- 🌐 Mikrotik Network & Automation
-
-<br>
-
-<!-- Tech Stack Section (Modern) -->
-## 🛠️ Tech Stack & Tools
-
-<div align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,react,vite,androidstudio,kotlin,java,git,github,figma,vscode,mikrotik&perline=7&theme=light" alt="My Skills" />
+  <a href="mailto:kholik@tazdevelop.com">
+    <img src="https://img.shields.io/badge/📧_Email-kholik@tazdevelop.com-d93025?style=flat&logo=gmail&logoColor=white" alt="Email">
   </a>
+  <a href="https://linkedin.com/in/kholikakbar">
+    <img src="https://img.shields.io/badge/👔_LinkedIn-Kholik_Akbar-0077b5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="https://instagram.com/kholikakbar">
+    <img src="https://img.shields.io/badge/📸_Instagram-@kholikakbar-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram">
+  </a>
+</p>
+
+</div>
+
+---
+
+### 👨‍💻 About Me
+
+Saya adalah pengembang perangkat lunak yang berfokus pada **efisiensi** dan **skalabilitas**. Dengan latar belakang *full-stack*, saya membangun ekosistem digital mulai dari website bisnis hingga aplikasi Android native.
+
+- 🔭 **Sedang mengerjakan:** Integrasi AI (Gemini) pada aplikasi Android.
+- 🏢 **Founder:** [TazDevelop](https://tazdevelop.com) (Digital Solutions).
+- 🌱 **Fokus Belajar:** Cloud Architecture & Network Automation (Mikrotik).
+- 💬 **Diskusi:** Tertarik membicarakan teknologi *Mobile Development* atau *Business Automation*.
+
+<br>
+
+### 🛠️ Tech Stack
+
+**Mobile Development**
+<br>
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+
+**Web Development**
+<br>
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Vite](https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E)
+
+**Tools & Environment**
+<br>
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![Mikrotik](https://img.shields.io/badge/Mikrotik-AE1D25?style=for-the-badge&logo=mikrotik&logoColor=white)
+
+<br>
+
+### 🔥 Featured Projects
+
+| Project Name | Stack | Description |
+| :--- | :--- | :--- |
+| **🤖 OlikAI** | `Kotlin` `Gemini API` | Asisten chat pintar berbasis Android Native yang terintegrasi Google AI. |
+| **🏢 TazDevelop** | `React` `Tailwind` | Official company profile & portfolio website yang modern dan responsif. |
+| **🎮 Joki Service** | `HTML` `JS` | Platform web statis untuk manajemen layanan jasa joki game & tugas. |
+
+<br>
+
+### 📊 GitHub Activity
+
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Kholikakbar&show_icons=true&theme=radical&hide_border=true&count_private=true" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kholikakbar&layout=compact&theme=radical&hide_border=true&hide=jupyter%20notebook" height="150" alt="languages graph" />
 </div>
 
 <br>
 
-<!-- Projects Section -->
-## 🔥 Featured Projects
-
-| 🏆 Project | 📝 Description | 🧩 Tech Stack | 🔗 Action |
-|:---|:---|:---|:---:|
-| **OlikAI** | Chat Assistant cerdas berbasis Google Gemini API | `Kotlin` `Android` `Gemini` | [**View Repo**](https://github.com/Kholikakbar/OlikAI) |
-| **TazDevelop** | Official company profile & portfolio site | `React` `Tailwind` `Vite` | [**Visit Site**](https://tazdevelop.com) |
-| **Joki Service** | Platform layanan joki game & tugas | `HTML` `Tailwind` `JS` | [**View Repo**](https://github.com/Kholikakbar/joki-service) |
-
-<br>
-
-<!-- GitHub Stats Section -->
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kholikakbar&show_icons=true&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&title_color=0056D2&text_color=333" height="160" alt="Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kholikakbar&theme=transparent&hide_border=true&ring=0056D2&fire=E4405F&currStreakLabel=0056D2" height="160" alt="Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kholikakbar&layout=compact&theme=transparent&hide_border=true&title_color=0056D2&text_color=333&hide=jupyter%20notebook" height="140" alt="Languages" />
-</div>
-
-<br>
-
-<!-- Footer Section -->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.png" alt="Footer Divider" width="100%">
-
-<div align="center">
-  
-  <br>
-  
-  <p>
-    Interested in collaborating? Let's have a coffee! ☕<br>
-    <a href="mailto:kholik@tazdevelop.com"><b>kholik@tazdevelop.com</b></a>
-  </p>
-
-  <p>
-    <img src="https://komarev.com/ghpvc/?username=Kholikakbar&color=0056D2&style=flat-square&label=Profile+Views" alt="Views"/>
-  </p>
-  
-  <p style="font-size: 12px; color: #888;">
-    © 2025 Kholik Akbar – Founder of <a href="https://tazdevelop.com">TazDevelop</a>
-  </p>
-</div>
+---
+<p align="center">
+  <small>© 2025 Kholik Akbar. Building logic, not just code.</small>
+</p>
