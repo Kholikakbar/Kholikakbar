@@ -52,14 +52,68 @@ Sebagai **Social Media Specialist**, saya tidak hanya mengelola konten, tetapi j
 <!-- Projects Section (UPDATED) -->
 ### 🏆 Featured Projects
 
-| 📂 Project Category | 📝 Description | 🔧 Tech / Role |
-| :--- | :--- | :--- |
-| **📊 Instagram Analytics** | Alat untuk melacak performa akun, pertumbuhan *followers*, dan analisis *engagement rate* secara *real-time*. | `Data Analysis` `API` `Dashboard` |
-| **🎥 YT Media Downloader** | Web tool sederhana untuk mengunduh video (MP4) dan audio (MP3) dari YouTube untuk kebutuhan kurasi konten. | `React` `Node.js` `Converter` |
-| **⚙️ Admin Dashboard** | Panel admin terpusat untuk memanajemen konten media sosial, jadwal posting, dan data klien. | `React` `Tailwind` `ChartJS` |
-| **🔧 Service Center Page** | Landing page modern untuk toko service HP, Laptop, & Komputer. Fitur: Cek status service & Katalog harga. | `SEO` `Web Design` `Marketing` |
-
-<br>
+<table>
+  <tr>
+    <td width="50%" align="center" style="border: none;">
+      <a href="#">
+        <img src="https://placehold.co/600x250/833ab4/FFF?text=Instagram+Analytics&font=roboto" alt="IG Analytics" style="border-radius: 10px; width: 100%;">
+      </a>
+      <br><br>
+      <b>📊 Instagram Analytics</b>
+      <br>
+      <sub style="color: gray;">Real-time engagement tracker & growth insights</sub>
+      <br>
+      <p>
+        <img src="https://img.shields.io/badge/Data-Analysis-833ab4?style=flat-square&logo=googleanalytics&logoColor=white" />
+        <img src="https://img.shields.io/badge/API-Integration-333?style=flat-square&logo=axios&logoColor=white" />
+      </p>
+    </td>
+    <td width="50%" align="center" style="border: none;">
+      <a href="#">
+        <img src="https://placehold.co/600x250/FF0000/FFF?text=Youtube+Downloader&font=roboto" alt="YT Downloader" style="border-radius: 10px; width: 100%;">
+      </a>
+      <br><br>
+      <b>🎥 YT Media Downloader</b>
+      <br>
+      <sub style="color: gray;">MP4 & MP3 Converter for Content Curation</sub>
+      <br>
+      <p>
+        <img src="https://img.shields.io/badge/React-Frontend-61DAFB?style=flat-square&logo=react&logoColor=black" />
+        <img src="https://img.shields.io/badge/Node-Backend-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center" style="border: none;">
+      <a href="#">
+        <img src="https://placehold.co/600x250/2c3e50/FFF?text=Admin+Dashboard&font=roboto" alt="Admin Dashboard" style="border-radius: 10px; width: 100%;">
+      </a>
+      <br><br>
+      <b>⚙️ Social Admin Dashboard</b>
+      <br>
+      <sub style="color: gray;">All-in-one Content Management System</sub>
+      <br>
+      <p>
+        <img src="https://img.shields.io/badge/Tailwind-UI%2FUX-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
+        <img src="https://img.shields.io/badge/Chart.js-Visuals-FF6384?style=flat-square&logo=chartdotjs&logoColor=white" />
+      </p>
+    </td>
+    <td width="50%" align="center" style="border: none;">
+      <a href="#">
+        <img src="https://placehold.co/600x250/e67e22/FFF?text=Service+Landing+Page&font=roboto" alt="Service Page" style="border-radius: 10px; width: 100%;">
+      </a>
+      <br><br>
+      <b>🔧 Service Center Page</b>
+      <br>
+      <sub style="color: gray;">Modern page for IT Services Business</sub>
+      <br>
+      <p>
+        <img src="https://img.shields.io/badge/SEO-Optimized-FFD700?style=flat-square&logo=google&logoColor=black" />
+        <img src="https://img.shields.io/badge/Marketing-Funnel-4CAF50?style=flat-square&logo=googleads&logoColor=white" />
+      </p>
+    </td>
+  </tr>
+</table>
 
 <!-- GitHub Stats -->
 ### 📈 Activity & Stats
