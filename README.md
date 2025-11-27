@@ -26,31 +26,39 @@
 <br>
 
 <!-- About Section -->
-<!-- About Me Section - Creative Center Style -->
-### ⚡ The Person Behind The Screen
+### 🚀 About Me
 
-<div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjR4MXZ4bmxpN254bmxpN254bmxpN254bmxpN254bmxpN254bmxpNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Ld0InaVRM6Zsk/giphy.gif" width="180">
-  
-  <br><br>
-
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=833ab4&center=true&vCenter=true&width=435&lines=Social+Media+Strategist;Code+%2B+Content+Creator;Data-Driven+Growth" alt="Typing SVG" />
-
-  <p width="600">
-    <i>"Saya percaya bahwa <b>Coding</b> dan <b>Konten</b> adalah dua sisi mata uang yang sama.<br>Keduanya membutuhkan logika, kreativitas, dan eksekusi yang tepat."</i>
-  </p>
-  
-  <br>
-
-  <p align="center">
-    Saya adalah seorang <b>Tech-Savvy Marketer</b>. <br>
-    Saya tidak hanya memposting konten, saya membangun <b>sistem</b> di belakangnya.
-    <br><br>
-    🚀 <b>Misi Saya:</b><br>
-    Mengubah <i>followers</i> menjadi <i>customers</i> melalui data analitik dan landing page yang efektif.
-  </p>
-
-</div>
+<table>
+  <tr>
+    <td width="35%" align="center" style="border: none;">
+      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200" style="border-radius: 10px;">
+      <br><br>
+      <a href="https://instagram.com/kholikakbar">
+        <img src="https://img.shields.io/badge/Follow%20Me-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white">
+      </a>
+    </td>
+    <td width="65%" style="border: none;">
+      <h3>👋 Hi, I'm Kholik!</h3>
+      <p>
+        Saya menggabungkan seni <b>Digital Marketing</b> dengan presisi <b>Teknologi</b>. 
+        Sebagai <i>Social Media Specialist</i>, saya tidak sekadar mengejar <i>likes</i>, tapi membangun ekosistem digital.
+      </p>
+      
+      <p>
+        <b>🔥 What I Do Best:</b>
+      </p>
+      <ul>
+        <li>📈 <b>Growth Hacking:</b> Analisa algoritma untuk menaikkan <i>Engagement Rate</i>.</li>
+        <li>🛠️ <b>Tech Solutions:</b> Membuat <i>Tools</i> (Downloader/Analytics) untuk efisiensi konten.</li>
+        <li>💼 <b>Business Impact:</b> Membantu toko fisik <i>Go Digital</i> dengan Landing Page premium.</li>
+      </ul>
+      
+      <blockquote>
+        <i>"Data-driven decisions, creative execution."</i>
+      </blockquote>
+    </td>
+  </tr>
+</table>
 
 <!-- Tools & Stack -->
 ### 🧰 Tools of The Trade
