@@ -27,7 +27,6 @@
 
 <!-- About Section -->
 ### 🚀 About Me
-
 <table>
   <tr>
     <td width="35%" align="center" style="border: none;">
