@@ -17,7 +17,7 @@
   <a href="https://linkedin.com/in/kholikakbar" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:kholik@tazdevelop.com">
+  <a href="mailto:khlkalbar@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact_Me-333333?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 
