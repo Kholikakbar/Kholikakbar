@@ -72,11 +72,28 @@
 <!-- Icons disusun vertikal agar rapi -->
 <div style="display: flex; flex-direction: column; gap: 8px; align-items: flex-start;">
   <div style="display: flex; flex-direction: column; gap: 6px;">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/PixelLab_Icon.png" height="24" title="PixelLab" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/26/CapCut_Logo.png" height="24" title="CapCut" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/KineMaster_Logo.png" height="24" title="KineMaster" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/08/ChatGPT_logo.svg" height="24" title="ChatGPT" />
-</div>
+  <!-- PixelLab -->
+        <div style="text-align: center;">
+          <img src="https://iconduck.com/assets/if/pixellab/pixellab-icon-256x256-2f2f.png" width="28" height="28" title="PixelLab - Design"><br>
+          <small><b>PixelLab</b></small>
+        </div>
+        <!-- CapCut -->
+        <div style="text-align: center;">
+          <img src="https://upload.wikimedia.org/wikipedia/commons/2/26/CapCut_Logo.png" width="28" height="28" title="CapCut - Video"><br>
+          <small><b>CapCut</b></small>
+        </div>
+        <!-- KineMaster -->
+        <div style="text-align: center;">
+          <img src="https://iconduck.com/assets/if/kinemaster/kinemaster-icon-256x256-3e5e.png" width="28" height="28" title="KineMaster - Editor"><br>
+          <small><b>KineMaster</b></small>
+        </div>
+        <!-- ChatGPT -->
+        <div style="text-align: center;">
+          <img src="https://upload.wikimedia.org/wikipedia/commons/0/08/ChatGPT_logo.svg" width="28" height="28" title="ChatGPT - AI Assist"><br>
+          <small><b>ChatGPT</b></small>
+        </div>
+      </div>
+    </td>
     <td width="50%" align="center" valign="top" style="border: none;">
       <h4 style="margin-bottom: 10px;">💻 Web Development Stack</h4>
       <!-- Tech Stack Icons -->
