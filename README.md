@@ -69,13 +69,20 @@
   <tr>
     <td width="50%" align="center" valign="top" style="border: none;">
       <h4 style="margin-bottom: 10px;">🎨 Creative & Mobile Suite</h4>
-      <!-- Badges disusun vertikal/kotak agar rapi -->
-      <img src="https://img.shields.io/badge/PixelLab-Design-0075FF?style=flat-square&logo=android&logoColor=white" height="25" />
-      <img src="https://img.shields.io/badge/CapCut-Video-000000?style=flat-square&logo=capcut&logoColor=white" height="25" />
-      <br>
-      <img src="https://img.shields.io/badge/KineMaster-Editor-FF5722?style=flat-square&logo=kinemaster&logoColor=white" height="25" />
-      <img src="https://img.shields.io/badge/ChatGPT-AI_Assist-74aa9c?style=flat-square&logo=openai&logoColor=white" height="25" />
-    </td>
+<!-- Icons disusun vertikal agar rapi -->
+<div style="display: flex; flex-direction: column; gap: 8px; align-items: flex-start;">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/PixelLab_Icon.png" 
+       alt="PixelLab" height="28" title="PixelLab - Design" />
+  
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/26/CapCut_Logo.png" 
+       alt="CapCut" height="28" title="CapCut - Video" />
+  
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/KineMaster_Logo.png" 
+       alt="KineMaster" height="28" title="KineMaster - Editor" />
+  
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/08/ChatGPT_logo.svg" 
+       alt="ChatGPT" height="28" title="ChatGPT - AI Assist" />
+</div>
     <td width="50%" align="center" valign="top" style="border: none;">
       <h4 style="margin-bottom: 10px;">💻 Web Development Stack</h4>
       <!-- Tech Stack Icons -->
