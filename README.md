@@ -10,15 +10,22 @@
 
 <div align="center">
   
-  <!-- Social Media Badges -->
-  <a href="https://instagram.com/kholikakbar" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-Growth_Hacker-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+<!-- Social Media Badges -->
+<div style="display: flex; gap: 12px; flex-wrap: wrap; align-items: center;">
+
+  <!-- WhatsApp -->
+  <a href="https://wa.me/6285591733039?text=Halo%20Kholik%20Akbar!" target="_blank" title="Chat via WhatsApp">
+    <img src="https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
   </a>
-  <a href="https://linkedin.com/in/kholikakbar" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077b5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+
+  <!-- Instagram -->
+  <a href="https://instagram.com/olikakbar31_" target="_blank" title="Follow @olikakbar31_ di Instagram">
+    <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
-  <a href="mailto:khlkalbar@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact_Me-333333?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+
+  <!-- Email -->
+  <a href="mailto:khlkakbar@gmail.com?subject=Halo%20dari%20Website&body=Halo%20Kholik%20Akbar,%0A%0ASaya%20menghubungi%20Anda%20melalui%20website." title="Kirim email ke khlkakbar@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Kirim_Pesan-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 
 </div>
