@@ -40,7 +40,7 @@
     <td width="30%" align="center" style="border: none;">
       <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="180" style="border-radius: 10px;">
       <br><br>
-      <a href="https://instagram.com/kholikakbar">
+      <a href="https://instagram.com/olikakbar_">
         <img src="https://img.shields.io/badge/Follow%20Me-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white">
       </a>
     </td>
