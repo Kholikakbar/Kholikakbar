@@ -19,7 +19,7 @@
   </a>
 
   <!-- Instagram -->
-  <a href="https://instagram.com/olikakbar31_" target="_blank" title="Follow @olikakbar31_ di Instagram">
+  <a href="https://instagram.com/olikakbar_" target="_blank" title="Follow @olikakbar_ di Instagram">
     <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
 
