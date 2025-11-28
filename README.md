@@ -74,25 +74,13 @@
   <div style="display: flex; flex-direction: column; gap: 6px;">
   <!-- PixelLab -->
         <div style="text-align: center;">
-          <img src="https://iconduck.com/assets/if/pixellab/pixellab-icon-256x256-2f2f.png" width="28" height="28" title="PixelLab - Design"><br>
-          <small><b>PixelLab</b></small>
-        </div>
-        <!-- CapCut -->
-        <div style="text-align: center;">
-          <img src="https://upload.wikimedia.org/wikipedia/commons/2/26/CapCut_Logo.png" width="28" height="28" title="CapCut - Video"><br>
-          <small><b>CapCut</b></small>
-        </div>
-        <!-- KineMaster -->
-        <div style="text-align: center;">
-          <img src="https://iconduck.com/assets/if/kinemaster/kinemaster-icon-256x256-3e5e.png" width="28" height="28" title="KineMaster - Editor"><br>
-          <small><b>KineMaster</b></small>
-        </div>
-        <!-- ChatGPT -->
-        <div style="text-align: center;">
-          <img src="https://upload.wikimedia.org/wikipedia/commons/0/08/ChatGPT_logo.svg" width="28" height="28" title="ChatGPT - AI Assist"><br>
-          <small><b>ChatGPT</b></small>
-        </div>
-      </div>
+         !-- Badges disusun vertikal/kotak agar rapi -->
+      <img src="https://img.shields.io/badge/PixelLab-Design-0075FF?style=flat-square&logo=android&logoColor=white" height="25" />
+      <img src="https://img.shields.io/badge/CapCut-Video-000000?style=flat-square&logo=capcut&logoColor=white" height="25" />
+      
+
+      <img src="https://img.shields.io/badge/KineMaster-Editor-FF5722?style=flat-square&logo=kinemaster&logoColor=white" height="25" />
+      <img src="https://img.shields.io/badge/ChatGPT-AI_Assist-74aa9c?style=flat-square&logo=openai&logoColor=white" height="25" />
     </td>
     <td width="50%" align="center" valign="top" style="border: none;">
       <h4 style="margin-bottom: 10px;">💻 Web Development Stack</h4>
