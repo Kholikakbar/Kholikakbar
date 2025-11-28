@@ -74,7 +74,6 @@
   <div style="display: flex; flex-direction: column; gap: 6px;">
   <!-- PixelLab -->
         <div style="text-align: center;">
-         !-- Badges disusun vertikal/kotak agar rapi -->
       <img src="https://img.shields.io/badge/PixelLab-Design-0075FF?style=flat-square&logo=android&logoColor=white" height="25" />
       <img src="https://img.shields.io/badge/CapCut-Video-000000?style=flat-square&logo=capcut&logoColor=white" height="25" />
       
