@@ -71,17 +71,10 @@
       <h4 style="margin-bottom: 10px;">🎨 Creative & Mobile Suite</h4>
 <!-- Icons disusun vertikal agar rapi -->
 <div style="display: flex; flex-direction: column; gap: 8px; align-items: flex-start;">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/PixelLab_Icon.png" 
-       alt="PixelLab" height="28" title="PixelLab - Design" />
-  
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/26/CapCut_Logo.png" 
-       alt="CapCut" height="28" title="CapCut - Video" />
-  
-  <img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/KineMaster_Logo.png" 
-       alt="KineMaster" height="28" title="KineMaster - Editor" />
-  
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/08/ChatGPT_logo.svg" 
-       alt="ChatGPT" height="28" title="ChatGPT - AI Assist" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2f/PixelLab_Icon.png" alt="PixelLab" width="32" title="PixelLab - Design"/><br>**PixelLab** | <img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/html5.svg" width="40" title="HTML5"/> |
+ <img src="https://upload.wikimedia.org/wikipedia/commons/2/26/CapCut_Logo.png" alt="CapCut" width="32" title="CapCut - Video Editing"/><br>**CapCut** | <img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/javascript.svg" width="40" title="JavaScript"/> |
+ <img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/KineMaster_Logo.png" alt="KineMaster" width="32" title="KineMaster - Video Editor"/><br>**KineMaster** | <img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/nodedotjs.svg" width="40" title="Node.js"/> |
+ <img src="https://upload.wikimedia.org/wikipedia/commons/0/08/ChatGPT_logo.svg" alt="ChatGPT" width="32" title="ChatGPT - AI Assistant"/><br>**ChatGPT** | <img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/react.svg" width="40" title="React"/><br><img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/vite.svg" width="40" title="Vite"/><br><img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/tailwindcss.svg" width="40" title="Tailwind CSS"/> |
 </div>
     <td width="50%" align="center" valign="top" style="border: none;">
       <h4 style="margin-bottom: 10px;">💻 Web Development Stack</h4>
