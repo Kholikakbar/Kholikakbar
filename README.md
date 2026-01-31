@@ -11,7 +11,7 @@
 <div align="center">
   
 <!-- Social Media Badges -->
-<div style="display: flex; gap: 12px; flex-wrap: wrap; align-items: center;">
+<div style="display: flex; gap: 12px; justify-content: center; flex-wrap: wrap; align-items: center;">
 
   <!-- WhatsApp -->
   <a href="https://wa.me/6285591733039?text=Halo%20Kholik%20Akbar!" target="_blank" title="Chat via WhatsApp">
@@ -29,13 +29,14 @@
   </a>
 
 </div>
+</div>
 
 <br>
 
 <!-- About Section -->
-### 🚀 About Me
+<h3 align="center">🚀 About Me</h3>
 
-<table>
+<table align="center" style="border: none;">
   <tr>
     <td width="30%" align="center" style="border: none;">
       <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="180" style="border-radius: 10px;">
@@ -45,45 +46,39 @@
       </a>
     </td>
     <td width="70%" style="border: none;">
-<h3>👋 Hi, I'm Kholik!</h3>
-<p>Saya menggabungkan seni <b>Digital Marketing</b> dengan presisi <b>Teknologi</b>. Sebagai <i>Social Media Specialist</i>, saya tidak sekadar mengejar <i>likes</i>, tapi membangun ekosistem digital.</p>
-<p><b>🔥 What I Do Best:</b></p>
-<ul>
-<li>📈 <b>Growth Hacking:</b> Analisa algoritma untuk menaikkan <i>Engagement Rate</i>.</li>
-<li>🛠️ <b>Tech Solutions:</b> Membuat <i>Tools</i> (Downloader/Analytics) untuk efisiensi konten.</li>
-<li>💼 <b>Business Impact:</b> Membantu toko fisik <i>Go Digital</i> dengan Landing Page premium.</li>
-</ul>
-<blockquote><i>"Data-driven decisions, creative execution."</i></blockquote>
+      <h3>👋 Hi, I'm Kholik!</h3>
+      <p>Saya menggabungkan seni <b>Digital Marketing</b> dengan presisi <b>Teknologi</b>. Sebagai <i>Social Media Specialist</i>, saya tidak sekadar mengejar <i>likes</i>, tapi membangun ekosistem digital.</p>
+      <p><b>🔥 What I Do Best:</b></p>
+      <ul>
+        <li>📈 <b>Growth Hacking:</b> Analisa algoritma untuk menaikkan <i>Engagement Rate</i>.</li>
+        <li>🛠️ <b>Tech Solutions:</b> Membuat <i>Tools</i> (Downloader/Analytics) untuk efisiensi konten.</li>
+        <li>💼 <b>Business Impact:</b> Membantu toko fisik <i>Go Digital</i> dengan Landing Page premium.</li>
+      </ul>
+      <blockquote><i>"Data-driven decisions, creative execution."</i></blockquote>
     </td>
   </tr>
 </table>
 
 <!-- Tools Section -->
-### 🧰 Tools of The Trade
+<h3 align="center">🧰 Tools of The Trade</h3>
 
 <p align="center" style="color: #666; margin-bottom: 20px;">
   <i>"Combining creative tools with powerful code."</i>
 </p>
 
-<table>
+<table align="center" style="border: none;">
   <tr>
     <td width="50%" align="center" valign="top" style="border: none;">
       <h4 style="margin-bottom: 10px;">🎨 Creative & Mobile Suite</h4>
-<!-- Icons disusun vertikal agar rapi -->
-<div style="display: flex; flex-direction: column; gap: 8px; align-items: flex-start;">
-  <div style="display: flex; flex-direction: column; gap: 6px;">
-  <!-- PixelLab -->
-        <div style="text-align: center;">
-      <img src="https://img.shields.io/badge/PixelLab-Design-0075FF?style=flat-square&logo=android&logoColor=white" height="25" />
-      <img src="https://img.shields.io/badge/CapCut-Video-000000?style=flat-square&logo=capcut&logoColor=white" height="25" />
-      
-
-      <img src="https://img.shields.io/badge/KineMaster-Editor-FF5722?style=flat-square&logo=kinemaster&logoColor=white" height="25" />
-      <img src="https://img.shields.io/badge/ChatGPT-AI_Assist-74aa9c?style=flat-square&logo=openai&logoColor=white" height="25" />
+      <div style="display: flex; flex-direction: column; gap: 8px; align-items: center;">
+         <img src="https://img.shields.io/badge/PixelLab-Design-0075FF?style=flat-square&logo=android&logoColor=white" height="28" />
+         <img src="https://img.shields.io/badge/CapCut-Video-000000?style=flat-square&logo=capcut&logoColor=white" height="28" />
+         <img src="https://img.shields.io/badge/KineMaster-Editor-FF5722?style=flat-square&logo=kinemaster&logoColor=white" height="28" />
+         <img src="https://img.shields.io/badge/ChatGPT-AI_Assist-74aa9c?style=flat-square&logo=openai&logoColor=white" height="28" />
+      </div>
     </td>
     <td width="50%" align="center" valign="top" style="border: none;">
       <h4 style="margin-bottom: 10px;">💻 Web Development Stack</h4>
-      <!-- Tech Stack Icons -->
       <a href="https://skillicons.dev">
         <img src="https://skillicons.dev/icons?i=html,js,nodejs,react,vite,tailwind&perline=3" alt="Tech Stack" />
       </a>
@@ -92,9 +87,9 @@
 </table>
 
 <!-- Projects Section (UPDATED) -->
-### 🏆 Featured Projects
+<h3 align="center">🏆 Featured Projects</h3>
 
-<table>
+<table align="center" style="border: none;">
   <tr>
     <td width="50%" align="center" style="border: none;">
       <a href="#">
@@ -145,7 +140,7 @@
         <img src="https://placehold.co/600x250/e67e22/FFF?text=Service+Landing+Page&font=roboto" alt="Service Page" style="border-radius: 10px; width: 100%;">
       </a>
       <br><br>
-      <b>🔧 Service Center Page</b>
+      <b>� Service Center Page</b>
       <br>
       <sub style="color: gray;">Modern page for IT Services Business</sub>
       <br>
@@ -158,7 +153,7 @@
 </table>
 
 <!-- GitHub Stats Section -->
-### 📈 Analytics & Performance
+<h3 align="center">📈 Analytics & Performance</h3>
 
 <div align="center">
   <!-- Stats Card (Server Vercel - Sangat Stabil) -->
