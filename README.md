@@ -1,84 +1,73 @@
-<!-- Header with Gradient Wave -->
+<!-- Header with Premium Gradient & Font -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=833ab4,fd1d1d,fcb045&height=280&section=header&text=Kholik%20Akbar&fontSize=80&fontAlign=50&animation=fadeIn&fontAlignY=35&desc=Digital%20Creator%20%E2%80%A2%20Social%20Media%20Specialist%20%E2%80%A2%20Developer&descAlign=50&descAlignY=60&descSize=20" alt="Header Animation" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=8E2DE2,4A00E0,fcb045&height=320&section=header&text=Kholik%20Akbar&fontSize=90&fontAlign=50&animation=fadeIn&fontAlignY=35&desc=Digital%20Artisan%20%26%20Creative%20Developer&descAlign=50&descAlignY=62&descSize=24&fontColor=ffffff" alt="Header Animation" width="100%" />
 
-  <!-- Dynamic Typing Text -->
+  <!-- Animated Typing Text with Modern Font -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=F44336&center=true&vCenter=true&width=600&lines=Mastering+Social+Media+Algorithms;Building+Creative+Web+Solutions;Data-Driven+Content+Strategy;Turning+Ideas+into+Digital+Reality" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Outfit&weight=600&size=28&duration=2500&pause=800&color=9F7AEA&center=true&vCenter=true&width=700&lines=Social+Media+Growth+Hacker+%F0%9F%9A%80;Full+Stack+Creative+Developer+%F0%9F%92%BB;Turning+Data+Into+Influence+%F0%9F%93%8A;Building+The+Future+of+Digital+%F0%9F%8C%90" alt="Typing SVG" />
   </a>
 </div>
 
-<!-- Social Media Badges -->
-<p align="center">
-  <a href="https://wa.me/6285591733039?text=Halo%20Kholik!" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-Connect-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
-  </a>
+<!-- Premium Social Badges -->
+<div align="center" style="margin-top: 20px;">
   <a href="https://instagram.com/olikakbar_" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="35" />
   </a>
-  <a href="mailto:khlkakbar@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  <a href="https://wa.me/6285591733039" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" height="35" />
   </a>
-</p>
-
-<br>
-
-<!-- About Section -->
-<h2 align="center">🚀 About Me</h2>
-
-<div align="center">
-<table style="border: none; border-spacing: 0;">
-  <tr>
-    <td width="30%" align="center" style="border: none;">
-      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="180" style="border-radius: 15px; box-shadow: 0px 0px 20px rgba(131, 58, 180, 0.5);">
-      <br><br>
-      <a href="https://instagram.com/olikakbar_">
-        <img src="https://img.shields.io/badge/%F0%9F%91%8B%20Let's%20Collaborate!-833ab4?style=flat-square&logoColor=white">
-      </a>
-    </td>
-    <td width="70%" style="border: none;">
-      <h3>👋 Hi, I'm Kholik!</h3>
-      <p>
-        Saya menggabungkan seni <b>Digital Marketing</b> dengan presisi <b>Teknologi</b>. 
-        Sebagai <i>Social Media Specialist</i> & <i>Enthusiast Developer</i>, saya tidak hanya mengejar <i>likes</i>, 
-        tapi membangun <b>Ekosistem Digital</b> yang berkelanjutan.
-      </p>
-      <p><b>🔥 What I Bring to the Table:</b></p>
-      <ul>
-        <li>📈 <b>Growth Strategy:</b> Analisis mendalam untuk meningkatkan <i>Engagement Rate</i> organik.</li>
-        <li>� <b>Web Solutions:</b> Mengembangkan <i>Landing Pages</i> & <i>Tools</i> untuk efisiensi bisnis.</li>
-        <li>🎨 <b>Creative Content:</b> Visual storytelling yang menarik dan konversional.</li>
-      </ul>
-      <blockquote style="border-left: 4px solid #fd1d1d;">
-        <i>"Data-driven decisions, creative execution."</i>
-      </blockquote>
-    </td>
-  </tr>
-</table>
+  <a href="mailto:khlkakbar@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="35" />
+  </a>
+  <a href="https://linkedin.com">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35" />
+  </a>
 </div>
 
-<br>
+<br />
 
-<!-- Tools & Stack Section -->
-<h2 align="center">🛠️ Tools of The Trade</h2>
-
+<!-- Main Content Grid -->
 <div align="center">
-<table style="border: none; width: 100%;">
+<table style="border: none; border-spacing: 0; width: 100%;">
   <tr>
-    <td width="50%" align="center" valign="top" style="border: none;">
-      <h4 style="margin-bottom: 15px;">🎨 Creative & Mobile Suite</h4>
-      <div style="display: flex; flex-direction: column; gap: 8px; align-items: center;">
-         <img src="https://img.shields.io/badge/PixelLab-Design-0075FF?style=flat-square&logo=android&logoColor=white" height="28" />
-         <img src="https://img.shields.io/badge/CapCut-Video_Edit-000000?style=flat-square&logo=capcut&logoColor=white" height="28" />
-         <img src="https://img.shields.io/badge/KineMaster-Pro_Editor-FF5722?style=flat-square&logo=kinemaster&logoColor=white" height="28" />
-         <img src="https://img.shields.io/badge/ChatGPT-AI_Pilot-74aa9c?style=flat-square&logo=openai&logoColor=white" height="28" />
+    <!-- Left Column: Avatar & Quick Bio -->
+    <td width="35%" align="center" style="border: none; vertical-align: top; padding-right: 20px;">
+      <div style="background: #1a1b27; padding: 20px; border-radius: 20px; box-shadow: 0 10px 30px rgba(0,0,0,0.5);">
+        <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWw0d3JtcjF5cW14bHZ3bnZ3bnZ3bnZ3bnZ3bnZ3bnZ3bnZ3biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/L1R1TVThqceK6M8lF8/giphy.gif" width="200" style="border-radius: 50%; border: 4px solid #8E2DE2;">
+        <br><br>
+        <h3 style="color: #fff; margin-bottom: 5px;">Hi, I'm Kholik! 👋</h3>
+        <p style="color: #a9b1d6; font-size: 14px;">
+          <i>"Marketing in the veins, Code in the brain."</i>
+        </p>
+        <hr style="border-color: #30363d; opacity: 0.3;">
+        <div align="left" style="color: #c0caf5; line-height: 1.8;">
+          � <b>Focus:</b> Social Growth & Web Apps<br>
+          🌱 <b>Learning:</b> AI Marketing Tools<br>
+          💬 <b>Ask me:</b> Engagement Strategy<br>
+          ⚡ <b>Fun fact:</b> I automate my daily tasks
+        </div>
       </div>
     </td>
-    <td width="50%" align="center" valign="middle" style="border: none;">
-      <h4 style="margin-bottom: 15px;">💻 Web Development Stack</h4>
-      <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=html,css,js,react,vite,tailwind,nodejs,git&perline=4&theme=dark" alt="Tech Stack" />
-      </a>
+
+    <!-- Right Column: Tech & Stats -->
+    <td width="65%" style="border: none; vertical-align: top;">
+      
+      <!-- Tech Stack Section -->
+      <h3 align="center" style="color: #fff;">⚡ Tech Arsenal & Tools</h3>
+      <div align="center" style="background: #1a1b27; padding: 25px; border-radius: 20px; box-shadow: 0 10px 30px rgba(0,0,0,0.5);">
+         <a href="https://skillicons.dev">
+          <img src="https://skillicons.dev/icons?i=react,vite,tailwind,html,css,js,nodejs,git,figma,ps,ai,pr&perline=6&theme=dark" />
+        </a>
+      </div>
+
+      <br>
+
+      <!-- GitHub Stats (Compact & Modern) -->
+      <div align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=Kholikakbar&show_icons=true&count_private=true&include_all_commits=true&bg_color=1a1b27&title_color=8E2DE2&text_color=c0caf5&icon_color=4A00E0&border_color=30363d&block_margin=10&custom_title=GitHub%20Performance" height="180" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kholikakbar&layout=donut&bg_color=1a1b27&title_color=8E2DE2&text_color=c0caf5&icon_color=4A00E0&border_color=30363d&hide=jupyter%20notebook" height="180" />
+      </div>
+
     </td>
   </tr>
 </table>
@@ -86,69 +75,26 @@
 
 <br>
 
-<!-- Projects Section -->
-<h2 align="center">🏆 Featured Projects</h2>
+<!-- Featured Projects with Glass Cards Look -->
+<h2 align="center" style="border-bottom: none;">🚀 High-Impact Projects</h2>
 
 <div align="center">
 <table style="border: none;">
   <tr>
-    <td width="50%" align="center" style="border: none; padding: 10px;">
-      <a href="#">
-        <img src="https://placehold.co/600x250/833ab4/FFF?text=Instagram+Analytics&font=roboto" alt="IG Analytics" style="border-radius: 10px; width: 100%;">
-      </a>
-      <br><br>
-      <b>📊 Instagram Analytics Dashboard</b>
-      <br>
-      <sub style="color: gray;">Real-time engagement tracker & growth insights</sub>
-      <br>
-      <p style="margin-top: 5px;">
-        <img src="https://img.shields.io/badge/Data_Analysis-833ab4?style=flat-square&logo=googleanalytics&logoColor=white" />
-        <img src="https://img.shields.io/badge/API_Integration-212121?style=flat-square&logo=axios&logoColor=white" />
-      </p>
+    <td width="33%" align="center" style="border: none; padding: 10px;">
+      <a href="#"><img src="https://placehold.co/400x200/4A00E0/fff?text=IG+Analytics&font=montserrat" style="border-radius: 12px; width: 100%; box-shadow: 0 5px 15px rgba(74, 0, 224, 0.4);" /></a>
+      <h4 style="margin-top: 10px;">📊 Social Tracker</h4>
+      <img src="https://img.shields.io/badge/Node.js-Backend-green?style=flat-square&logo=node.js" />
     </td>
-    <td width="50%" align="center" style="border: none; padding: 10px;">
-      <a href="#">
-        <img src="https://placehold.co/600x250/FF0000/FFF?text=Youtube+Tools&font=roboto" alt="YT Downloader" style="border-radius: 10px; width: 100%;">
-      </a>
-      <br><br>
-      <b>🎥 YT Creator Tools</b>
-      <br>
-      <sub style="color: gray;">Content Curation & Media Downloader</sub>
-      <br>
-      <p style="margin-top: 5px;">
-        <img src="https://img.shields.io/badge/React-Frontend-61DAFB?style=flat-square&logo=react&logoColor=black" />
-        <img src="https://img.shields.io/badge/Node.js-Backend-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
-      </p>
+    <td width="33%" align="center" style="border: none; padding: 10px;">
+      <a href="#"><img src="https://placehold.co/400x200/D32F2F/fff?text=YT+Downloader&font=montserrat" style="border-radius: 12px; width: 100%; box-shadow: 0 5px 15px rgba(211, 47, 47, 0.4);" /></a>
+      <h4 style="margin-top: 10px;">🎥 Media Tools</h4>
+      <img src="https://img.shields.io/badge/React-Frontend-blue?style=flat-square&logo=react" />
     </td>
-  </tr>
-  <tr>
-    <td width="50%" align="center" style="border: none; padding: 10px;">
-      <a href="#">
-        <img src="https://placehold.co/600x250/2c3e50/FFF?text=Social+Admin&font=roboto" alt="Admin Dashboard" style="border-radius: 10px; width: 100%;">
-      </a>
-      <br><br>
-      <b>⚙️ Social Admin System</b>
-      <br>
-      <sub style="color: gray;">All-in-one Content Management CMS</sub>
-      <br>
-      <p style="margin-top: 5px;">
-        <img src="https://img.shields.io/badge/Tailwind-UI-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
-        <img src="https://img.shields.io/badge/Chart.js-Visuals-FF6384?style=flat-square&logo=chartdotjs&logoColor=white" />
-      </p>
-    </td>
-    <td width="50%" align="center" style="border: none; padding: 10px;">
-      <a href="#">
-        <img src="https://placehold.co/600x250/e67e22/FFF?text=Business+Landing&font=roboto" alt="Service Page" style="border-radius: 10px; width: 100%;">
-      </a>
-      <br><br>
-      <b>🔧 Service Business Page</b>
-      <br>
-      <sub style="color: gray;">High-Converting Landing Page for IT Services</sub>
-      <br>
-      <p style="margin-top: 5px;">
-        <img src="https://img.shields.io/badge/SEO-Optimized-FFD700?style=flat-square&logo=google&logoColor=black" />
-        <img src="https://img.shields.io/badge/Marketing-Funnel-4CAF50?style=flat-square&logo=googleads&logoColor=white" />
-      </p>
+    <td width="33%" align="center" style="border: none; padding: 10px;">
+      <a href="#"><img src="https://placehold.co/400x200/F57C00/fff?text=Biz+Landing&font=montserrat" style="border-radius: 12px; width: 100%; box-shadow: 0 5px 15px rgba(245, 124, 0, 0.4);" /></a>
+      <h4 style="margin-top: 10px;">💼 Business Page</h4>
+      <img src="https://img.shields.io/badge/SEO-Marketing-orange?style=flat-square&logo=google" />
     </td>
   </tr>
 </table>
@@ -156,26 +102,7 @@
 
 <br>
 
-<!-- Analytics Section -->
-<h2 align="center">📈 Analytics & Activity</h2>
-
+<!-- Footer Wave -->
 <div align="center">
-  <!-- GitHub Activity Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kholikakbar&bg_color=0d1117&color=fd1d1d&line=833ab4&point=ffffff&hide_border=true" width="100%" />
-  
-  <br><br>
-  
-  <!-- Stats Cards -->
-  <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=Kholikakbar&show_icons=true&count_private=true&include_all_commits=true&bg_color=0d1117&title_color=fd1d1d&text_color=ffffff&icon_color=fcb045&border_color=30363d&hide_border=true" height="180" alt="Stats" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kholikakbar&layout=compact&bg_color=0d1117&title_color=833ab4&text_color=ffffff&icon_color=fcb045&border_color=30363d&hide=jupyter%20notebook&hide_border=true" height="180" alt="Languages" />
-  </p>
-</div>
-
-<!-- Footer with Gradient Wave -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=fcb045,fd1d1d,833ab4&height=120&section=footer" width="100%" />
-  <p style="margin-top: -60px; color: white; position: relative; z-index: 2; font-family: sans-serif;">
-    <b>Let's turn your audience into a community! 🚀</b>
-  </p>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=fcb045,4A00E0,8E2DE2&height=100&section=footer" width="100%" />
 </div>
